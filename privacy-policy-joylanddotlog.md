@@ -1,8 +1,4 @@
-layout: page
-title: "Joyland.log Privacy Policy"
-permalink: /joylanddotlog/privacy-policy
-
-##Privacy Policy
+#Privacy Policy
 
 Last updated: 27 November 2025
 
