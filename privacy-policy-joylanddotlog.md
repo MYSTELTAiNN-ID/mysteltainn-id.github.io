@@ -4,9 +4,9 @@ permalink: /joylanddotlog/privacy-policy
 
 ##Privacy Policy
 
-Last updated: [Insert Date]
+Last updated: 27 November 2025
 
-This Privacy Policy explains how [Studio Name Placeholder] (“we”, “our”, or “the Developer”) handles information in [Game Name Placeholder] (“the Game”).
+This Privacy Policy explains how Wuthering Challenger (“we”, “our”, or “the Developer”) handles information in Joyland.log (“the Game”).
 The Game is fully offline, does not require an internet connection, and does not collect personal data.
 
 ⸻
@@ -92,7 +92,7 @@ To exercise rights related to Unity’s engine-level data, users must refer to U
 8. Data Controller
 
 For developer-collected data:
-[Studio Name Placeholder] is the data controller.
+Withering Challenger is the data controller.
 However, since no personal data is collected, no actual processing takes place.
 
 For Unity-collected data:
@@ -103,14 +103,14 @@ Unity Technologies is the data controller.
 9. Contact
 
 If you have questions about this policy, you may contact the Developer using:
-[Contact Email Placeholder]
+syamsuddinpr@gmail.com
 or
-[Support Page / Website Placeholder]
+s.id/wutheringchallenger
 
 ⸻
 
 10. Changes to This Policy
 
 We may update this Privacy Policy from time to time.
-Changes will be posted on [Website Placeholder].
+Changes will be posted on [GitHub Pages](https://mysteltainn-id.github.io).
 Continued use of the Game after changes are posted means acceptance of the updated policy.
