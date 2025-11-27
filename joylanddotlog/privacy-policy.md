@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Joyland Privacy Policy"
+title: "Joyland.log Privacy Policy"
 permalink: /joylanddotlog/privacypolicy
 ---
 
