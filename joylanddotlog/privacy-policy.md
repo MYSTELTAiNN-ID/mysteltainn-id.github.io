@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Joyland.log Privacy Policy"
-permalink: /joylanddotlog/privacypolicy
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+---
 
 # Privacy Policy
 
